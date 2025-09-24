@@ -20,7 +20,7 @@ The application supports a wide range of formats, including XAR archives, ZIP fi
 
 Pacifist is fully compatible with all modern versions of macOS, including Sonoma, Ventura, Monterey, and Big Sur. It runs natively on both Intel and Apple Silicon Macs, ensuring fast and reliable performance. The interface is clean and intuitive, allowing users to drag and drop packages for instant analysis.
 
-![Pacifist Screenshot](https://static.macupdate.com/screenshots/343445/m/pacifist-screenshot.png?v=1661056601)
+![Pacifist Screenshot](https://9to5mac.com/wp-content/uploads/sites/6/2021/11/Pacifist-macOS.jpg)
 
 ---
 
